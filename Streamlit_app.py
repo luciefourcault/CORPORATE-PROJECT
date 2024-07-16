@@ -4,7 +4,7 @@ import pandas as pd
 import altair as alt
 import numpy as np
 import matplotlib.pyplot as plt
-
+import matplotlib
 # Configure the page settings
 st.set_page_config(
     page_title="Bearing Vibrations Analysis Dashboard",
